@@ -1,4 +1,4 @@
-# NEO4J-CYPHER-quaries-graph-DB-visual_analysis-EDA-REST-API
+# NEO4J-CYPHER-Graph_DB-Visual_analysis-EDA-REST-API
 Этот проект является реализацией функционала графовой базы данных neo4j с использованием Python. В проекте проведены операции загрузки/выгрузки данных, подготовки данных, динамической визуализации с использованием сервиса vis. Также проведён EDA и визуальный анализ данных в объёме поставленных учебных задач в стеке технологий: 
 NEO4J, CYPHER quaries, graph DB visio &amp; EDA, REST API.
 
