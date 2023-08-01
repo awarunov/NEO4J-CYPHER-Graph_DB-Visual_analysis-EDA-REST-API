@@ -1,6 +1,7 @@
 # NEO4J-CYPHER-Graph_DB-Visual_analysis-EDA-REST-API
 ![image](https://user-images.githubusercontent.com/96602226/227826427-306b925f-9fcb-4e25-ac67-fe90c35bd872.png)
 ![image](https://user-images.githubusercontent.com/96602226/227827154-ec8eeefd-62f4-4feb-a4ba-1aedacd8be6d.png)
+Entropy visualization :)
 ![Alt Text](https://raw.githubusercontent.com/awarunov/NEO4J-CYPHER-Graph_DB-Visual_analysis-EDA-REST-API/main/.images/Graph.gif)
 Этот проект является реализацией функционала графовой базы данных neo4j с использованием Python. В проекте выполнены операции загрузки/выгрузки данных, подготовки данных, динамической визуализации с использованием сервиса vis. Также проведён EDA и визуальный анализ данных в объёме поставленных учебных задач в стеке технологий: 
 NEO4J, CYPHER quaries, graph DB visio &amp; EDA, REST API.
